@@ -1,6 +1,6 @@
 # Hi 👋, I'm Kazim Raza
 
-**Software Engineer | Full-Stack Developer **
+                                        Software Engineer | Full-Stack Developer 
 
 ---
 <p align="center">
