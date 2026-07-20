@@ -5,8 +5,7 @@
 ---
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Software+Engineer;Learning+&+Building+Automations;Mobile+Developer" alt="Typing SVG" />
-  </a>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Software+Engineer;Learning+%26+Building+Automations;Mobile+Developer" alt="Typing SVG" />  </a>
 </p>
 
 ### 👤 About Me
