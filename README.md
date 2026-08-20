@@ -48,8 +48,8 @@
 ### 🚀 Projects
 
 
-- **Your Project 1:** [Live Demo](http://kazim-assetmanager.netlify.app/) | [Repo](https://github.com/Kazim55Raza/Asset-Manager) - Assets Manager to Control Access on Company Assets
-- **Your Project 2:**  [Repo](https://github.com/Kazim55Raza/MERN-Stack-E-Commerce-Store) - Complete E-Commerce Store for Vendors and Buyers
+- **Assets Manager:** [Live Demo](http://kazim-assetmanager.netlify.app/) | [Repo](https://github.com/Kazim55Raza/Asset-Manager) - Assets Manager to Control Access on Company Assets
+- **MERN Stack E Commerce Store:**  [Repo](https://github.com/Kazim55Raza/MERN-Stack-E-Commerce-Store) - Complete E-Commerce Store for Vendors and Buyers
 
 ---
 
